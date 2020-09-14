@@ -118,6 +118,70 @@ img {
 }
 
 .section-do-item {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
   flex: 0 0 270px;
+  padding: 60px 30px;
   outline: 1px solid red;
+}
+
+.section-do-icon {
+  margin-bottom: 30px;
+}
+
+.section-do-item-heading {
+  margin-bottom: 20px;
+}
+
+.section-do-item-text {
+  margin: 0;
+  text-align: center;
+}
+
+/* Clients section */
+
+.section-clients {
+  padding-top: 95px;
+  padding-bottom: 160px;
+  border-top: 1px solid #dadada;
+}
+
+.section-clients-list {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.section-clients-item {
+  flex: 0 0 370px;
+  padding: 55px 35px 30px;
+  outline: 1px solid red;
+}
+
+.section-clients-testimonial {
+  margin: 0;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #dadada;
+}
+
+.section-clients-user {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.section-clients-avatar {
+  width: 63px;
+  height: 63px;
+  border: 2px solid #3172b9;
+  border-radius: 50%;
+}
+
+.section-clients-user-info {
+  margin-left: 20px;
+}
+
+.section-clients-username {
+  margin-bottom: 5px;
 }
