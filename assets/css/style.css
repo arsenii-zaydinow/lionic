@@ -373,6 +373,45 @@ img {
   color: #787878;
 }
 
+/* Section Form */
+
+.section-form {
+  padding: 120px 0;
+  border-top: 1px solid #dadada;
+}
+
+.form {
+  margin: auto;
+  max-width: 1055px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 55px;
+}
+
+.input {
+  padding: 0 30px;
+  width: 250px;
+  height: 60px;
+  border: 1px solid #dadada;
+  border-radius: 30px;
+  outline: none;
+}
+
+.input::placeholder {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 300;
+  color: #787878;
+}
+
+.form-btn {
+  margin-left: 15px;
+  width: 230px;
+  border: none;
+  font-size: 16px;
+  font-weight: normal;
+}
+
 /* Footer */
 
 .footer {
