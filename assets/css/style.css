@@ -135,11 +135,8 @@ img {
 /* Hero section */
 
 .section-hero {
-  background-image: url(assets/img/hero-img.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
+  background-image: url(assets/img/hero-img.jpg) center center no-repeat;
   background-size: cover;
-  
 }
 
 .hero-gradient {
