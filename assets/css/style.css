@@ -193,7 +193,7 @@ img {
   width: 13px;
   height: 17px;
   margin-right: 10px;
-  background: url(/assets/img/shield-icon.svg) center center no-repeat transparent;
+  background: url(../img/shield-icon.svg) center center no-repeat transparent;
   background-size: contain;
   transform: translateY(-1px);
 }
@@ -339,15 +339,15 @@ img {
 }
 
 .gps-icon {
-  background-image: url(/assets/img/gps.png);
+  background-image: url(../img/gps.png);
 }
 
 .phone-icon {
-  background-image: url(/assets/img/phone.png);
+  background-image: url(../img/phone.png);
 }
 
 .mail-icon {
-  background-image: url(/assets/img/mail.png);
+  background-image: url(../img/mail.png);
   background-size: auto 19px;
 }
 
@@ -475,18 +475,18 @@ img {
 .footer-twitter-icon {
   width: 18px;
   height: 15px;
-  background-image: url(/assets/img/twitter.svg);
+  background-image: url(../img/twitter.svg);
 }
 
 .footer-in-icon {
   width: 18px;
   height: 19px;
-  background-image: url(/assets/img/linkedin.svg);
+  background-image: url(../img/linkedin.svg);
 }
 
 .footer-mail-icon {
   width: 24px;
   height: 17px;
-  background-image: url(/assets/img/email.svg);
+  background-image: url(../img/email.svg);
 }
 
